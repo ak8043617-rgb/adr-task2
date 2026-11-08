@@ -5,14 +5,14 @@
 ### 1. Patient Information
 | Field | Entry |
 |-------|-------|
-| Patient initials | [e.g. A.K. - use the initials given in your scenario] |
+| Patient initials | A.K |
 | Age / Gender | 45 years / Female |
 
 ### 2. Suspected Medicine
 | Field | Entry |
 |-------|-------|
 | Medicine name | Amoxicillin |
-| Dose | [dose from your scenario, e.g. 500 mg] |
+| Dose |  500 mg] |
 | Route | Oral |
 | Start date | Day -5 (5 days before presentation) [write the actual date if given] |
 
@@ -28,10 +28,10 @@
 ### 4. Reporter Information
 | Field | Entry |
 |-------|-------|
-| Name | [your name] |
-| Designation | [e.g. Pharmacy student / Pharmacist / Nurse] |
-| Contact | [your email or phone number] |
-| Healthcare institution | [your hospital, college or pharmacy] |
+| Name |Muhammad Ali Hanif Awan |
+| Designation | Pharmacy student |
+| Contact |ak8043617@gmail.com |
+| Healthcare institution |Uni Of Peshawar |
 
 ### 5. Additional Information
 - **Concomitant medicine:** Paracetamol, taken as needed. No change in use reported.
